@@ -1,3 +1,3 @@
 # Project-4-HeartDiseaseClassification
-Heart Disease Classification Machine Learning Project
 
+Classification models for heart disease prediction using feature selection and PCA.
